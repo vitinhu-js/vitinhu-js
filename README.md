@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @vitinhu-js
 - 👀 I’m interested in ... gamedev
 - 🌱 I’m currently learning ... html css js
-- 💞️ I’m looking to collaborate on ... nobody 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... vitorluann056@gmail.com (temporary email)
-- 😄 Pronouns: ... ele dele he his
+- 😄 Pronouns: ... ele dele
 - ⚡ Fun fact: ... none for now 
 
 <!---
